@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samehesmael277
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Full stack
 - 🌱 I’m currently learning web development
 - 📫 How to reach me ...
 phone number : +201115546850
