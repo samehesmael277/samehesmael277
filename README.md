@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samehesmael277
 - 👀 I’m interested in android developer
-- 🌱 I’m currently learning android developer
 - 📫 How to reach me ...
 phone number : +201115546850
 my email : samehesmael277@gmail.com
