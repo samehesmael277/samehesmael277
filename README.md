@@ -3,8 +3,10 @@
 
 
 
-<br/>
+<p><img align="right" src="https://github.com/samehesmael277/samehesmael277/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+## ❤ Views & Followers & Education
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samehesmael277&label=Profile%20views&color=0e75b6&style=flat" alt="samehesmael277" /> </p>
 
 <a href="https://github.com/samehesmael277?tab=followers"><img src="https://img.shields.io/github/followers/samehesmael277?label=Followers&style=social" alt="GitHub Badge"></a>
