@@ -7,9 +7,23 @@
 
 
 ## ❤ Views & Followers & Education
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samehesmael277&label=Profile%20views&color=0e75b6&style=flat" alt="samehesmael277" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=samehesmael277&label=Profile%20views&color=0e75b6&style=flat" alt="samehesmael277" /> </a>
 
 <a href="https://github.com/samehesmael277?tab=followers"><img src="https://img.shields.io/github/followers/samehesmael277?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<a href="https://komarev.com/ghpvc/?username=samehesmael277&label=Profile%20views&color=0e75b6&style=flat" alt="samehesmael277">
+<img src="https://komarev.com/ghpvc/?username=samehesmael277"> </a>
+
+
+
+
+<a href="https://github.com/samehesmael277/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=samehesmael277"> </a>
+<a href="https://github.com/samehesmael277?tab=followers"><img src="https://img.shields.io/github/followers/samehesmael277?label=Followers&style=social" alt="GitHub Badge"></a>
+<br><br>
+
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/sameh_esmael" target="blank"><img src="https://img.shields.io/twitter/follow/sameh_esmael?logo=twitter&style=for-the-badge" alt="sameh_esmael" /></a> </p>
