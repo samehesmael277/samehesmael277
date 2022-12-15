@@ -26,7 +26,7 @@
 - ⚡ Fun fact **Writing code and seeing the output it is very fun**
 - 📫	Education: 
     - Bachelor’s Degree in Computers and Information (Computer science)
-Faculty of Computers & Information Systems - Beni Suef University
+Faculty of Computers & Information Systems - Beni Suef University (I'm still studying)
 
 <br>
 
