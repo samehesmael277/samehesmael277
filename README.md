@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameh Esmael</h1>
-<h3 align="center">Native Mobile Applications Developer.</h3>
+<h3 align="center">Native Android Developer (Java & Kotlin)</h3>
 
 <br><br>
 
