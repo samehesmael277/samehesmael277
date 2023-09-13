@@ -50,13 +50,6 @@ Faculty of Computers & Information Systems - Beni Suef University (I'm still stu
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samehesmael277&show_icons=true&theme=dark&locale=en&layout=compact" alt="samehesmael277" /></p>
-
-<br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samehesmael277&show_icons=true&theme=dark&locale=en" alt="samehesmael277" /></p>
-
-<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samehesmael277&theme=dark" alt="samehesmael277" /></p>
 
