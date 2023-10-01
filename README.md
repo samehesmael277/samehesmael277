@@ -24,8 +24,8 @@
 
 - ⚡ Fun fact **Writing code and seeing the output it is very fun**
 - 📫	Education: 
-    - Bachelor’s Degree in Computers and Information (Computer science)
-Faculty of Computers & Information Systems - Beni Suef University
+    - Bachelor’s Degree in Computing & Artificial Intelligence (Computer Science Department)
+Faculty of Computing & Artificial Intelligence - Beni Suef University
 
 <br>
 
